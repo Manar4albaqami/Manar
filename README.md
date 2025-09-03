@@ -5,6 +5,7 @@ Senior Data Science student specializing in data engineering, machine learning, 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manar Albaqami) 
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manar_albogami66@icloud.com) 
 
 # Tech Stack:
